@@ -8,6 +8,9 @@ django = "*"
 python-dotenv = "*"
 
 [dev-packages]
+black = "*"
+isort = "*"
+pre-commit = "*"
 
 [requires]
 python_version = "3.11"
