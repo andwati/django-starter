@@ -2,11 +2,11 @@
 
 My opinionated django starter kit
 
-- [ ] pipenv
-- [ ] django 5
-- [ ] python-dotenv
-- [ ] pre-commit hooks
-- [ ] isort
-- [ ] black
+- [x] pipenv
+- [x] django 5
+- [x] python-dotenv
+- [x] pre-commit hooks
+- [x] isort
+- [x] black
 - [ ] postgresql
 - [ ] sqlite
