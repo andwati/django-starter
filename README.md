@@ -8,8 +8,8 @@ My opinionated django starter kit
 - [x] pre-commit hooks
 - [x] isort
 - [x] black
-- [ ] postgresql
-- [ ] sqlite
+- [x] postgresql
+- [x] sqlite
 - [x] whitenoise
 - [ ] bootstrap5
 - [ ] django-crispy-forms
