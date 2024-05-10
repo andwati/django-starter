@@ -11,6 +11,7 @@ My opinionated django starter kit
 - [x] postgresql
 - [x] sqlite
 - [x] whitenoise
-- [ ] bootstrap5
+- [x] bootstrap5
+- [x] djlint
 - [ ] django-crispy-forms
 - [ ] Custom 404, 500, and 403 error pages
