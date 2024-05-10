@@ -13,5 +13,5 @@ My opinionated django starter kit
 - [x] whitenoise
 - [x] bootstrap5
 - [x] djlint
-- [ ] django-crispy-forms
+- [x] django-crispy-forms
 - [ ] Custom 404, 500, and 403 error pages
